@@ -39,8 +39,10 @@ tags:
 ### Ordered
 
 1. Item 1
-2. Item 2
-3. Item 3
+
+* Item 2
+
+1. Item 3
 
    1. Item 3a
    2. Item 3b
@@ -58,3 +60,7 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 ## Inline code
 
 This web site is using `markedjs/marked`.
+
+# hello
+
+fucking shit
